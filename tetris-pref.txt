@@ -1,2 +1,8 @@
 20, 10, 20, 20, 200
 row, col, mult, offset, time constant (ms)
+
+#first value row controls how many rows there are
+#second value col controls how many columns there are
+#third value mult controls how big the game is (window size)
+#fourth value offset controls border size
+#fifth value time constant controls how quickly the game moves- refresh time and block generation
